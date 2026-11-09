@@ -1,7 +1,7 @@
-Nome do Aluno: João Victor Costa Pereira
-Data de Entrega: 08/11/2026
-Justificativa da Escolha do Tema: Sou corredor e não gosto dos aplicativos mais comuns para monitoramento de corrida. Eles requerem muitas permissões do usuário, sendo um possível risco de concessão de dados.
-Descrição do Funcionamento do Aplicativo: O aplicativo tem 2 telas, a primeira tela possui um botão de "Começar" para começar o monitoramento de tempo de corrida, trajeto no mapa, dentre indicadores fisiológicos. O trajeto no mapa não está funcional devido ao planejamento inicial de usar Google Maps, mas o Google Maps requer pagamento pelo uso do API, essa parte está incompleta. Não há método de coleta dos indicadores fisiológicos adequadas também, está sendo feito uma presunção com base na idade, sexo e IMC do usuário.
+**Nome do Aluno: João Victor Costa Pereira**
+**Data de Entrega: 08/11/2026**
+**Justificativa da Escolha do Tema: Sou corredor e não gosto dos aplicativos mais comuns para monitoramento de corrida. Eles requerem muitas permissões do usuário, sendo um possível risco de concessão de dados.**
+**Descrição do Funcionamento do Aplicativo: O aplicativo tem 2 telas, a primeira tela possui um botão de "Começar" para começar o monitoramento de tempo de corrida, trajeto no mapa, dentre indicadores fisiológicos. O trajeto no mapa não está funcional devido ao planejamento inicial de usar Google Maps, mas o Google Maps requer pagamento pelo uso do API, essa parte está incompleta. Não há método de coleta dos indicadores fisiológicos adequadas também, está sendo feito uma presunção com base na idade, sexo e IMC do usuário.**
 
 O Projeto RunningTracker monitora o percurso e indicadores de performance de corrida. Essa aplicação é uma alternativa fora da nuvem e sem requisição de conta para acompanhamento digital de corrida através de smartphone. O projeto foi realizado utilizando Figma para prototipação e Kotlin, Android Studio, JetPack Compose, e Room conforme solicitado pelo entregável do curso de Kotlin Intermediário. Esse projeto usou IA para a geração de documentação e geração de código através do Gemini e Chat GPT.
 
