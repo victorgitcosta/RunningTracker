@@ -9,8 +9,13 @@
 
 O Projeto RunningTracker monitora o percurso e indicadores de performance de corrida. Essa aplicação é uma alternativa fora da nuvem e sem requisição de conta para acompanhamento digital de corrida através de smartphone. O projeto foi realizado utilizando Figma para prototipação e Kotlin, Android Studio, JetPack Compose, e Room conforme solicitado pelo entregável do curso de Kotlin Intermediário. Esse projeto usou IA para a geração de documentação e geração de código através do Gemini e Chat GPT.
 
+## 0. Protótipos vs. Aplicação
+
 <img width="461" height="858" alt="1 run_track" src="https://github.com/user-attachments/assets/0909e6c1-7f41-40be-a948-a0d1ff232865" />
 <img width="466" height="879" alt="2 runs" src="https://github.com/user-attachments/assets/99680baa-f023-4ebe-ad4b-eab072c3c64c" />
+
+<img width="1080" height="2400" alt="Screenshot_20261108_231710" src="https://github.com/user-attachments/assets/f3b8d7b3-9e42-4811-8312-2a8fe5ac2320" />
+
 
 ---
 
